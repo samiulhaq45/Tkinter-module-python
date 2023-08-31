@@ -22,3 +22,11 @@ How do you rate our Service? : 0
 How about Cleanness? : 0
 How was the Waiters behaviour? : 0
 Do you Recommend Us? : 0
+
+Customer No: 4
+Have you enjoy the meal?: 10
+How was the Location? : 8
+How do you rate our Service? : 9
+How about Cleanness? : 7
+How was the Waiters behaviour? : 10
+Do you Recommend Us? : 10
